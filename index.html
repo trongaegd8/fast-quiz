@@ -1,27 +1,87 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <title>Website đầu tiên của Trọng</title>
-    <style>
-        body{
-            font-family:Arial;
-            text-align:center;
-            margin-top:100px;
-            background:#f4f4f4;
-        }
-        h1{
-            color:#0077cc;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>KSA Fast Quiz</title>
+
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<h1>🎉 Xin chào!</h1>
+  <main class="quiz-container">
 
-<h2>Website đầu tiên của Trọng đã hoạt động.</h2>
+    <header>
+      <h1>🎯 KSA Fast Quiz</h1>
+      <p>Luyện thi kiến thức KSA</p>
+    </header>
 
-<p>Được tạo để làm bài test ksa.</p>
+    <section id="start-screen">
+      <h2>Bài kiểm tra mẫu</h2>
+
+      <p>
+        Số câu: <b>5 câu</b><br>
+        Thời gian: <b>5 phút</b>
+      </p>
+
+      <button onclick="startQuiz()">Bắt đầu làm bài</button>
+    </section>
+
+    <section id="quiz-screen" class="hidden">
+
+      <div class="quiz-info">
+        <span id="question-number">Câu 1/5</span>
+        <span>⏱️ <b id="timer">05:00</b></span>
+      </div>
+
+      <div class="progress">
+        <div id="progress-bar"></div>
+      </div>
+
+      <h2 id="question-text"></h2>
+
+      <div id="answer-options"></div>
+
+      <div class="buttons">
+        <button class="gray" onclick="previousQuestion()">
+          ← Câu trước
+        </button>
+
+        <button onclick="nextQuestion()">
+          Câu tiếp →
+        </button>
+      </div>
+
+      <button
+        id="submit-button"
+        class="submit hidden"
+        onclick="submitQuiz()">
+        Nộp bài
+      </button>
+
+    </section>
+
+    <section id="result-screen" class="hidden">
+
+      <h2>✅ Kết quả bài thi</h2>
+
+      <div id="score"></div>
+
+      <p id="result-message"></p>
+
+      <button onclick="location.reload()">
+        Làm lại
+      </button>
+
+      <div id="review"></div>
+
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
 
 </body>
 </html>
