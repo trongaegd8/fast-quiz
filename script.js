@@ -107,11 +107,7 @@ async function startQuiz() {
 
     alert(
       "Không tải được dữ liệu câu hỏi.\n\n" +
-      "Kiểm tra lại 4 file trong thư mục data:\n" +
-      "- chapter1.json\n" +
-      "- chapter2.json\n" +
-      "- chapter3.json\n" +
-      "- chapter4.json\n\n" +
+      "Kiểm tra file: data/chapter1.json\n\n" +
       "Chi tiết lỗi: " +
       error.message
     );
