@@ -13,9 +13,6 @@ const QUIZ_TIME = 5 * 60;
 // Danh sách 4 file dữ liệu câu hỏi.
 const DATA_FILES = [
   "data/chapter1.json",
-  "data/chapter2.json",
-  "data/chapter3.json",
-  "data/chapter4.json"
 ];
 
 // ===============================
