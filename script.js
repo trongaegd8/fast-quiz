@@ -1,160 +1,220 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 20px;
-  font-family: Arial, sans-serif;
-  background: #f1f5f9;
-  color: #1e293b;
-}
-
-.quiz-container {
-  max-width: 750px;
-  margin: 30px auto;
-  padding: 30px;
-  background: white;
-  border-radius: 18px;
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
-}
-
-header {
-  text-align: center;
-  border-bottom: 1px solid #e2e8f0;
-  margin-bottom: 25px;
-}
-
-header h1 {
-  color: #0969da;
-  margin-bottom: 5px;
-}
-
-section {
-  text-align: center;
-}
-
-button {
-  padding: 13px 22px;
-  border: none;
-  border-radius: 10px;
-  background: #0969da;
-  color: white;
-  font-size: 16px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-button:hover {
-  opacity: 0.9;
-}
-
-.gray {
-  background: #64748b;
-}
-
-.submit {
-  width: 100%;
-  margin-top: 20px;
-  background: #16a34a;
-}
-
-.hidden {
-  display: none;
-}
-
-.quiz-info {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 15px;
-  font-size: 17px;
-}
-
-.progress {
-  width: 100%;
-  height: 10px;
-  background: #e2e8f0;
-  border-radius: 10px;
-  overflow: hidden;
-  margin-bottom: 25px;
-}
-
-#progress-bar {
-  width: 0;
-  height: 100%;
-  background: #0969da;
-  transition: 0.3s;
-}
-
-#question-text {
-  text-align: left;
-  line-height: 1.5;
-}
-
-.option {
-  display: block;
-  text-align: left;
-  margin: 12px 0;
-  padding: 15px;
-  border: 1px solid #cbd5e1;
-  border-radius: 10px;
-  cursor: pointer;
-}
-
-.option:hover {
-  background: #eff6ff;
-}
-
-.option input {
-  margin-right: 10px;
-}
-
-.buttons {
-  display: flex;
-  justify-content: space-between;
-  gap: 15px;
-  margin-top: 25px;
-}
-
-#score {
-  margin: 20px 0;
-  font-size: 42px;
-  font-weight: bold;
-  color: #0969da;
-}
-
-.review-item {
-  margin-top: 18px;
-  padding: 15px;
-  text-align: left;
-  border-top: 1px solid #e2e8f0;
-}
-
-.correct {
-  color: #15803d;
-  font-weight: bold;
-}
-
-.wrong {
-  color: #dc2626;
-  font-weight: bold;
-}
-
-@media (max-width: 600px) {
-  body {
-    padding: 10px;
+const questions = [
+  {
+    question: "Công thức tính OEE đúng là gì?",
+    options: [
+      "Availability × Performance × Quality",
+      "MTBF × MTTR × Quality",
+      "Accuracy × Precision",
+      "Reliability × Failure"
+    ],
+    answer: 0
+  },
+  {
+    question: "MTBF có ý nghĩa là gì?",
+    options: [
+      "Thời gian sửa chữa trung bình",
+      "Thời gian trung bình giữa các lần hỏng",
+      "Tỷ lệ sản phẩm đạt",
+      "Thời gian dừng máy"
+    ],
+    answer: 1
+  },
+  {
+    question: "MTTR có ý nghĩa là gì?",
+    options: [
+      "Thời gian sửa chữa trung bình",
+      "Thời gian giữa các lần hỏng",
+      "Hiệu suất thiết bị",
+      "Tỷ lệ sản phẩm lỗi"
+    ],
+    answer: 0
+  },
+  {
+    question: "Mối quan hệ đúng giữa R(t) và F(t) là gì?",
+    options: [
+      "R(t) × F(t) = 1",
+      "R(t) + F(t) = 1",
+      "R(t) − F(t) = 1",
+      "R(t) = F(t)"
+    ],
+    answer: 1
+  },
+  {
+    question: "Gage R&R nhỏ hơn mức nào thường được xem là tốt?",
+    options: [
+      "5%",
+      "10%",
+      "20%",
+      "30%"
+    ],
+    answer: 1
   }
+];
 
-  .quiz-container {
-    margin: 10px auto;
-    padding: 20px;
-  }
+let currentQuestion = 0;
+let userAnswers = new Array(questions.length).fill(null);
 
-  .buttons {
-    flex-direction: column;
-  }
+let timeLeft = 300;
+let timerInterval;
 
-  button {
-    width: 100%;
+function startQuiz() {
+  document.getElementById("start-screen").classList.add("hidden");
+  document.getElementById("quiz-screen").classList.remove("hidden");
+
+  showQuestion();
+
+  timerInterval = setInterval(updateTimer, 1000);
+}
+
+function showQuestion() {
+  const question = questions[currentQuestion];
+
+  document.getElementById("question-number").textContent =
+    `Câu ${currentQuestion + 1}/${questions.length}`;
+
+  document.getElementById("question-text").textContent =
+    question.question;
+
+  document.getElementById("progress-bar").style.width =
+    `${((currentQuestion + 1) / questions.length) * 100}%`;
+
+  const answerOptions = document.getElementById("answer-options");
+
+  answerOptions.innerHTML = "";
+
+  question.options.forEach((option, index) => {
+    const label = document.createElement("label");
+
+    label.className = "option";
+
+    label.innerHTML = `
+      <input
+        type="radio"
+        name="answer"
+        value="${index}"
+        ${userAnswers[currentQuestion] === index ? "checked" : ""}
+      >
+
+      ${String.fromCharCode(65 + index)}. ${option}
+    `;
+
+    label.querySelector("input").addEventListener("change", function () {
+      userAnswers[currentQuestion] = index;
+    });
+
+    answerOptions.appendChild(label);
+  });
+
+  document.getElementById("submit-button").classList.toggle(
+    "hidden",
+    currentQuestion !== questions.length - 1
+  );
+}
+
+function nextQuestion() {
+  saveAnswer();
+
+  if (currentQuestion < questions.length - 1) {
+    currentQuestion++;
+    showQuestion();
   }
+}
+
+function previousQuestion() {
+  saveAnswer();
+
+  if (currentQuestion > 0) {
+    currentQuestion--;
+    showQuestion();
+  }
+}
+
+function saveAnswer() {
+  const selectedAnswer = document.querySelector(
+    'input[name="answer"]:checked'
+  );
+
+  if (selectedAnswer) {
+    userAnswers[currentQuestion] = Number(selectedAnswer.value);
+  }
+}
+
+function updateTimer() {
+  timeLeft--;
+
+  const minutes = Math.floor(timeLeft / 60);
+  const seconds = timeLeft % 60;
+
+  document.getElementById("timer").textContent =
+    `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+
+  if (timeLeft <= 0) {
+    submitQuiz();
+  }
+}
+
+function submitQuiz() {
+  saveAnswer();
+
+  clearInterval(timerInterval);
+
+  let correctAnswers = 0;
+
+  questions.forEach((question, index) => {
+    if (userAnswers[index] === question.answer) {
+      correctAnswers++;
+    }
+  });
+
+  document.getElementById("quiz-screen").classList.add("hidden");
+  document.getElementById("result-screen").classList.remove("hidden");
+
+  document.getElementById("score").textContent =
+    `${correctAnswers}/${questions.length}`;
+
+  const percentage = Math.round(
+    correctAnswers / questions.length * 100
+  );
+
+  document.getElementById("result-message").textContent =
+    `Bạn trả lời đúng ${percentage}% số câu hỏi.`;
+
+  showReview();
+}
+
+function showReview() {
+  const review = document.getElementById("review");
+
+  review.innerHTML = "<h3>Xem lại đáp án</h3>";
+
+  questions.forEach((question, index) => {
+    const item = document.createElement("div");
+
+    item.className = "review-item";
+
+    const isCorrect =
+      userAnswers[index] === question.answer;
+
+    const selectedText =
+      userAnswers[index] === null
+        ? "Chưa trả lời"
+        : question.options[userAnswers[index]];
+
+    item.innerHTML = `
+      <b>Câu ${index + 1}: ${question.question}</b>
+
+      <p class="${isCorrect ? "correct" : "wrong"}">
+        ${isCorrect ? "✅ Đúng" : "❌ Sai"}
+      </p>
+
+      <p>Bạn chọn: ${selectedText}</p>
+
+      <p>
+        Đáp án đúng:
+        <b>${question.options[question.answer]}</b>
+      </p>
+    `;
+
+    review.appendChild(item);
+  });
 }
