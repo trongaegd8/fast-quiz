@@ -1,9 +1,10 @@
 [
   {
-    "id": "C1-001",
+    "id": "C1-P1-Q01",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 1,
     "question": "Which of the following is the term that includes the characteristics or performance used to evaluate whether goods or services satisfy the regulated requirements?",
     "options": [
       "Method",
@@ -12,13 +13,14 @@
       "Quality"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-002",
+    "id": "C1-P1-Q02",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 2,
     "question": "Which of the following is not appropriate for the definition of quality?",
     "options": [
       "Conformance to requirements",
@@ -27,13 +29,14 @@
       "Overall customer satisfaction"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-003",
+    "id": "C1-P1-Q03",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 3,
     "question": "Which of the following concerning the new paradigm of quality is incorrect?",
     "options": [
       "Quality is defined by the accomplishment of customer satisfaction.",
@@ -42,13 +45,14 @@
       "Quality is accomplished by inspection."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-004",
+    "id": "C1-P1-Q04",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 4,
     "question": "Among changes in the corporate environment, which of the following is not an explanation of a period of mature market?",
     "options": [
       "The relationship between supply and demand is demand < supply.",
@@ -57,13 +61,14 @@
       "Initiative in the market lies with the customers."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-005",
+    "id": "C1-P1-Q05",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 5,
     "question": "Which of the following is incorrect regarding changes in the corporate environment?",
     "options": [
       "A company goes through birth-growth-aging-death.",
@@ -72,13 +77,14 @@
       "Companies over one hundred years old satisfy their customers constantly."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-006",
+    "id": "C1-P1-Q06",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 6,
     "question": "In a market with customer superiority where there is low demand and high supply, which of the following is most difficult to regard as a factor that provides competitiveness in accomplishing the goal of a company?",
     "options": [
       "Quality",
@@ -87,13 +93,14 @@
       "Deadline"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-007",
+    "id": "C1-P1-Q07",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 7,
     "question": "The following are general views on quality. Which one is not appropriate?",
     "options": [
       "To improve quality, inspection should be strengthened in order to improve customer satisfaction.",
@@ -102,13 +109,14 @@
       "Cost, amount, deadline, service, etc. are all called \"broad quality.\""
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-008",
+    "id": "C1-P1-Q08",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 8,
     "question": "Factors that influence quality are classified as the 4Ms (Man, Machine, Material, Method). Which of the following is the most appropriate reason for this classification?",
     "options": [
       "This is a traditional method of classification.",
@@ -117,13 +125,14 @@
       "This is seen as a set of factors of stratification that give the largest influence from input to output."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-009",
+    "id": "C1-P1-Q09",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 9,
     "question": "What is the correct order of quality development?",
     "options": [
       "Market quality → Demand quality → Design quality → Production quality",
@@ -131,14 +140,15 @@
       "Demand quality → Design quality → Production quality → Market quality",
       "Demand quality → Market quality → Production quality → Design quality"
     ],
-    "answer": 0,
-    "explanation": ""
+    "answer": 2,
+    "answerLetter": "C"
   },
   {
-    "id": "C1-010",
+    "id": "C1-P1-Q10",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 10,
     "question": "Dividing quality is done from the perspective of the user. What is the name for quality in which the product is planned so as to actualize quality for the user and the results are organized into specifications?",
     "options": [
       "Demand quality",
@@ -147,13 +157,14 @@
       "Market quality"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-011",
+    "id": "C1-P1-Q11",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 11,
     "question": "What is the name for product quality that is marked by the level of influence on third parties apart from the users, such as pollution?",
     "options": [
       "Third party quality",
@@ -162,13 +173,14 @@
       "Not subject to quality management"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-012",
+    "id": "C1-P1-Q12",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 12,
     "question": "What is the name for quality that investigates customers' needs obtained through a market study, claim, etc. and evaluates it during actual use?",
     "options": [
       "Design quality",
@@ -177,13 +189,14 @@
       "Production quality"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-013",
+    "id": "C1-P1-Q13",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 13,
     "question": "Which if the following is not a component of QM (Quality Management)?",
     "options": [
       "Quality assurance",
@@ -192,13 +205,14 @@
       "Quality system"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-014",
+    "id": "C1-P1-Q14",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 14,
     "question": "Which of the following is not appropriate for the core factor of undertaking quality management?",
     "options": [
       "Change into a customer-centered, corporate culture.",
@@ -207,13 +221,14 @@
       "Acquisition and maintenance of the KS certification."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-015",
+    "id": "C1-P1-Q15",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 15,
     "question": "Which of the following is not effect of quality management?",
     "options": [
       "Production is facilitated, and product quality becomes uniform.",
@@ -222,13 +237,14 @@
       "Production activities reduce, stabilizing the process and improving the production capability at the factories."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-016",
+    "id": "C1-P1-Q16",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 16,
     "question": "Which of the following is incorrect regarding change in quality in the general aspect?",
     "options": [
       "It is important to minimize variation and make all products uniform in order to ensure good quality.",
@@ -237,13 +253,14 @@
       "Change in quality must be improved consistently."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-017",
+    "id": "C1-P1-Q17",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 17,
     "question": "Properties and performance that are subject to quality evaluation are called quality characteristics. If a producer selects quality characteristics or determines quality specifications regardless of the purpose of use by the user, the resulting product will not have the appropriate quality. What characteristic can be used if the required quality characteristic cannot be measured directly?",
     "options": [
       "Quality characteristic",
@@ -252,13 +269,14 @@
       "Use characteristic"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-018",
+    "id": "C1-P1-Q18",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 18,
     "question": "Which of the following is most appropriate regarding the quality components of customer satisfaction presented by Kano of Japan in 1984?",
     "options": [
       "Attractive quality: Minimum level of basic quality.",
@@ -267,13 +285,14 @@
       "Opposite quality factor: Factor where a difference between satisfactory and unsatisfactory quality cannot be detected."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-019",
+    "id": "C1-P1-Q19",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 19,
     "question": "The following classifies characteristics of developmental stage of quality management by period. Which one is the most appropriate?",
     "options": [
       "QC (Quality Control) stage: stage of quality strategy.",
@@ -282,13 +301,14 @@
       "TQM (Total Quality Management) stage: Stage of quality culture."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-020",
+    "id": "C1-P1-Q20",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 20,
     "question": "Which of the following can be seen as a paradigm of modern perspective rather than of traditional perspective?",
     "options": [
       "Flaws in a product can be detected by process management techniques.",
@@ -297,13 +317,14 @@
       "Corporate productivity and quality are separate goals that clash with one another."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-021",
+    "id": "C1-P1-Q21",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 21,
     "question": "Which if the following is not a role of a Quality Control Manager required by the Industrial Standardization Act?",
     "options": [
       "To establish and undertake plans for company standardization and quality management.",
@@ -312,13 +333,14 @@
       "To administer a quality inspection."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-022",
+    "id": "C1-P1-Q22",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 22,
     "question": "What is the name for the direction in which the organization should be headed regarding quality that has been officially stated by the CEO?",
     "options": [
       "Business policies",
@@ -327,13 +349,14 @@
       "Quality management goal"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-023",
+    "id": "C1-P1-Q23",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 23,
     "question": "Which of the following is not an appropriate measure to be taken regarding inappropriate goods?",
     "options": [
       "Transfer trivial inappropriateness to subsequent process",
@@ -342,13 +365,14 @@
       "Exclude originally intended purpose"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-024",
+    "id": "C1-P1-Q24",
     "chapter": 1,
     "part": 1,
-    "part_title": "PART 1: OVERVIEW OF QUALITY MANAGEMENT",
+    "partTitle": "OVERVIEW OF QUALITY MANAGEMENT",
+    "number": 24,
     "question": "Among the various tasks of the Quality Control Manager, which one pertains to QP (quality planning) tasks?",
     "options": [
       "Taking measures for failed goods or inappropriate goods.",
@@ -357,13 +381,14 @@
       "Comprehensive administration of legislation, amendment, etc. of the company standard."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-025",
+    "id": "C1-P2-Q01",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 1,
     "question": "Which of the following is most appropriate regarding quality cost?",
     "options": [
       "Quality cost includes direct labor cost and material cost.",
@@ -372,13 +397,14 @@
       "The cost of handling customer complaints belongs to assessment cost."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-026",
+    "id": "C1-P2-Q02",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 2,
     "question": "Which quality cost is a cost that is used to maintain a certain level of quality and to prevent the occurrence of nonconforming products, that is, to prevent nonconformity from occurring in the first place?",
     "options": [
       "Assessment cost",
@@ -387,13 +413,14 @@
       "Improvement cost"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-027",
+    "id": "C1-P2-Q03",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 3,
     "question": "Which of the following is an inappropriate connection between cost and quality cost?",
     "options": [
       "Claim processing fee: assessment cost",
@@ -402,28 +429,30 @@
       "QC education cost: prevention cost"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-028",
+    "id": "C1-P2-Q04",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
-    "question": "What is the ratio of prevention (P), assessment (A), and failure (F) costs for the following quality cost statement?",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 4,
+    "question": "What is the ratio of prevention (P), assessment (A), and failure (F) costs for the following quality cost statement? - Outsourcing nonconformity cost: 40,000 - Process inspection cost: 30,000 - Design change cost: 5,000 - Quality technical cost: 10,000 - Cost for improving process: 10,000 - Cost from suspending work: 10,000 - QC education and training cost: 30,000 - Small group activity cost: 20,000 - A/S cost: 15,000 - Cost of maintaining measuring instrument: 20,000",
     "options": [
       "60:60:70",
       "50:70:70",
       "90:30:70",
       "70:50:70"
     ],
-    "answer": 0,
-    "explanation": ""
+    "answer": 2,
+    "answerLetter": "C"
   },
   {
-    "id": "C1-029",
+    "id": "C1-P2-Q05",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 5,
     "question": "What happens to internal failure cost and external failure cost when assessment cost is increased?",
     "options": [
       "Both increase.",
@@ -432,13 +461,14 @@
       "Internal failure cost decreases and external failure cost increases."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-030",
+    "id": "C1-P2-Q06",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 6,
     "question": "What of the following is not included as an external failure cost (EF)?",
     "options": [
       "A/S repair cost",
@@ -447,13 +477,14 @@
       "Claim cost"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-031",
+    "id": "C1-P2-Q07",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 7,
     "question": "Generally, quality cost ( ) and processing cost ( ) when quality is improved:",
     "options": [
       "increases, increases",
@@ -462,13 +493,14 @@
       "decreases, decreases"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-032",
+    "id": "C1-P2-Q08",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 8,
     "question": "Which of the following is the most appropriate explanation as the modern view of quality cost?",
     "options": [
       "It is most economical to improve quality consistently to reduce the percent nonconforming to 0 (zero).",
@@ -477,13 +509,14 @@
       "The optimal rate of quality cost is 5~15% as prevention cost, 15~25% as assessment cost, and 50~75% as failure cost."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-033",
+    "id": "C1-P2-Q09",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 9,
     "question": "Which of the following shows the most appropriate order of the various stages of quality assurance?",
     "options": [
       "Design product - Understand needs - Prepare production - Produce - Store and release - Conduct sales service",
@@ -492,13 +525,14 @@
       "Understand needs - Design product - Prepare production - Produce - Conduct sales service - Store and release"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-034",
+    "id": "C1-P2-Q10",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 10,
     "question": "Which of the following is an inappropriate explanation of the ISO 9000 Family, one of the most representative quality assurance systems?",
     "options": [
       "When ISO (International Organization for Standardization) developed a quality assurance system for ISO 9000 for the first time, it developed a business system for customer satisfaction.",
@@ -507,13 +541,14 @@
       "Renamed as the quality management system when ISO legislated 10 principles of quality management by amending the year 2000 version."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-035",
+    "id": "C1-P2-Q11",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 11,
     "question": "Among the various stages of quality assurance, which of the following is not appropriate for the activity that should be conducted at the design stage of a product?",
     "options": [
       "Planning a product that is appropriate to the customers' needs.",
@@ -522,13 +557,14 @@
       "Producing a test product that conforms to design quality."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-036",
+    "id": "C1-P2-Q12",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 12,
     "question": "Among the various stages of quality assurance, which of the following is difficult to regard as a storage management activity of the storage and release stage?",
     "options": [
       "Setting and maintaining the standard for storage.",
@@ -537,13 +573,14 @@
       "Maintaining the appropriate inventory."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-037",
+    "id": "C1-P2-Q13",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 13,
     "question": "Which of the following is not appropriate for explaining the activity for win-win quality assurance?",
     "options": [
       "The goal of the SCQM Model is profit-making by the company.",
@@ -552,13 +589,14 @@
       "SCQM process: Support process conducted by mother company in order to improve the level of quality of the final product."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-038",
+    "id": "C1-P2-Q14",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 14,
     "question": "Which of the following is not an appropriate explanation of the seven processes of SCQM?",
     "options": [
       "Communication process: Cooperation conducted by two companies in the process of total product actualization, which includes product development and service, with the purpose of optimizing quality, cost, and deadline.",
@@ -567,13 +605,14 @@
       "Performance sharing process: A business process for distributing outcomes as a result of SCQM by the two companies and for expanding partner companies in the same/different industries."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-039",
+    "id": "C1-P2-Q15",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 15,
     "question": "Which of the following is not an appropriate definition of quality cost?",
     "options": [
       "Total of unavoidable costs of quality.",
@@ -582,13 +621,14 @@
       "Tangible and intangible losses sustained as a result of not producing goods or services correctly from the beginning or by such a possibility."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-040",
+    "id": "C1-P2-Q16",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 16,
     "question": "Which of the following is an inappropriate connection regarding the explanation of quality cost?",
     "options": [
       "Prevention cost: Cost used in preventing quality issues, such as in quality planning, technological improvement, and quality education.",
@@ -597,13 +637,14 @@
       "External failure cost: Cost lost outside the company after releasing the product to customers."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-041",
+    "id": "C1-P2-Q17",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 17,
     "question": "Which of the following is least related to the necessity of managing quality cost?",
     "options": [
       "Expressing phenomena relating to quality in the company in a unit of currency.",
@@ -612,13 +653,14 @@
       "Expecting the effect of improving a corporation's condition."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-042",
+    "id": "C1-P2-Q18",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 18,
     "question": "Which of the following is not one of the three principles of quality?",
     "options": [
       "Do not make nonconforming products that may cause customer complaints from the beginning.",
@@ -627,13 +669,14 @@
       "Take prompt measures if nonconforming products are delivered to customers."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-043",
+    "id": "C1-P2-Q19",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 19,
     "question": "Which of the following explanations is far from difficulty in analyzing quality cost?",
     "options": [
       "Analysis is difficult due to poor criteria on rational distribution.",
@@ -642,13 +685,14 @@
       "The accurate collection of data is difficult."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-044",
+    "id": "C1-P2-Q20",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 20,
     "question": "Which of the following is most inappropriate as a method of reducing quality cost?",
     "options": [
       "Increasing assessment activities is a long-term method of reducing quality cost in a useful way.",
@@ -657,13 +701,14 @@
       "A slight increase in prevention cost can reduce assessment cost and failure cost to a relatively significant level."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-045",
+    "id": "C1-P2-Q21",
     "chapter": 1,
     "part": 2,
-    "part_title": "PART 2: QUALITY ASSURANCE AND QUALITY COST",
+    "partTitle": "QUALITY ASSURANCE AND QUALITY COST",
+    "number": 21,
     "question": "Which of the following is not a good aim to reduce quality cost?",
     "options": [
       "Which factors induce high quality cost, and are measures for such factors being reported to the personnel responsible?",
@@ -672,13 +717,14 @@
       "Where are the places where no improvement is being made despite the high incidence of nonconformity?"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-046",
+    "id": "C1-P3-Q01",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 1,
     "question": "Which explanation is correct?",
     "options": [
       "For accidents due to a defect in an OEM product, the department store, as the seller, is responsible only for tort liability, and not for product liability, because it is not the direct producer of the product.",
@@ -687,13 +733,14 @@
       "If the producer of a defective product directly sells a product, he or she is responsible only for product liability. The producer is not responsible for tort liability or criminal liability."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-047",
+    "id": "C1-P3-Q02",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 2,
     "question": "When a company is trying to ensure product safety, what should be considered when developing a warning and user manual?",
     "options": [
       "Location and material of the warning sign",
@@ -702,13 +749,14 @@
       "All of A, B, and C"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-048",
+    "id": "C1-P3-Q03",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 3,
     "question": "Which of the following should a small or medium producer investigate as a priority regarding a victim who argues for a defect in design?",
     "options": [
       "The amount of compensation.",
@@ -717,13 +765,14 @@
       "Whether there was a rational alternative design."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-049",
+    "id": "C1-P3-Q04",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 4,
     "question": "The user manual plays a decisive role for the user in acquiring accurate information. Which of the following is not a role of a user manual?",
     "options": [
       "To warn of the risk of misuse to the user.",
@@ -732,13 +781,14 @@
       "To warn about the risk of arbitrary remodeling of the product by the user."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-050",
+    "id": "C1-P3-Q05",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 5,
     "question": "Which of the following is undesirable?",
     "options": [
       "In order to ensure the reliability of an inspection and test, not only an in-company test but also a test from an external testing institution should be considered.",
@@ -747,13 +797,14 @@
       "Safety components must be subjected to a sampling inspection."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-051",
+    "id": "C1-P3-Q06",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 6,
     "question": "What is the responsibility that ensues if a debtor does not fulfill the content of liability?",
     "options": [
       "Default liability",
@@ -762,13 +813,14 @@
       "Product liability"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-052",
+    "id": "C1-P3-Q07",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 7,
     "question": "Which of the following is not an appropriate response to a PL claim?",
     "options": [
       "Listen to the content of the claim made by the victim carefully and check the situation.",
@@ -777,13 +829,14 @@
       "Notify the accident to the insurance company without hesitation."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-053",
+    "id": "C1-P3-Q08",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 8,
     "question": "Which of the following is not appropriate as a requirement of the PL policy in the sales area?",
     "options": [
       "The standard for handling products, method of product arrangement, etc. should be set forth in a manual at the sales store.",
@@ -792,13 +845,14 @@
       "Responsibility for the production, quality, and safety of free gifts provided with the product lies solely with the producer of the freebies."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-054",
+    "id": "C1-P3-Q09",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 9,
     "question": "Which of the following is not an applicable compensation under the Korean Product Liability Act when a producer compensates loss due to a defective product?",
     "options": [
       "Compensation for human loss",
@@ -807,13 +861,14 @@
       "Compensation for emotional loss"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-055",
+    "id": "C1-P3-Q10",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 10,
     "question": "Which of the following explanations is correct regarding the Product Liability Act?",
     "options": [
       "The Product Liability Act has the characteristic of a special act as a civil law.",
@@ -822,13 +877,14 @@
       "Producers should make products in accordance with the PL standard."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-056",
+    "id": "C1-P3-Q11",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 11,
     "question": "Which of the following is not a requisite for establishing product liability?",
     "options": [
       "A defect should be found in a product made in the current year.",
@@ -837,13 +893,14 @@
       "The causal relationship between defect and damage must be proved."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-057",
+    "id": "C1-P3-Q12",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 12,
     "question": "The following shows the differences between product liability (PL) policy and recall policy. Which is incorrect?",
     "options": [
       "Classification Component: Product Liability Policy is Civil responsibility vs Recall Policy is Administrative regulation",
@@ -852,13 +909,14 @@
       "Conditions for enforcement Component: Product Liability Policy requires (Defect in product, Damage, Causal relationship between defect and damage) vs Recall Policy requires (Occurrence or possibility of occurrence of damage due to product's defect)"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-058",
+    "id": "C1-P3-Q13",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 13,
     "question": "In which of the following cases can compensation for liability NOT be exempted?",
     "options": [
       "If the product was not supplied in the current year.",
@@ -867,13 +925,14 @@
       "The fact that the flaw in the product was caused by compliance with the standard of the law at the time of supplying the product in the pertinent year."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-059",
+    "id": "C1-P3-Q14",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 14,
     "question": "Which of the following is not a condition to be considered when drafting a warning notice?",
     "options": [
       "The information to be delivered must be accurate.",
@@ -882,13 +941,14 @@
       "The writing must be clear and concise."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-060",
+    "id": "C1-P3-Q15",
     "chapter": 1,
     "part": 3,
-    "part_title": "PART 3: PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "partTitle": "PRODUCT SAFETY AND PRODUCT LIABILITY",
+    "number": 15,
     "question": "In the event of disposition, which of the following is not an organizational activity that can minimize risk?",
     "options": [
       "Environmental pollution is not directly related with product liability, and therefore does not have to be checked.",
@@ -897,13 +957,14 @@
       "The danger of product disposition must be considered during the design process."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-061",
+    "id": "C1-P4-Q01",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 1,
     "question": "The following approaches could be taken in response to change in the corporate environment. Which one is incorrect?",
     "options": [
       "Analyze change and set strategic tasks.",
@@ -912,13 +973,14 @@
       "Evaluate and take measures for the executive result."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-062",
+    "id": "C1-P4-Q02",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 2,
     "question": "The following approaches could be taken in response to a change in the corporate environment. Which one is incorrect?",
     "options": [
       "Analyze change and set strategic tasks.",
@@ -927,13 +989,14 @@
       "Evaluate and take measures for the executive result."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-063",
+    "id": "C1-P4-Q03",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 3,
     "question": "The following are approaches that could be taken in response to a change in the corporate environment. Which one is correct?",
     "options": [
       "Analyze change and set strategic tasks: Investigating and analyzing the environment, investigating strengths and weaknesses of the company, and setting a management strategy for overcoming and adapting to the new environment.",
@@ -942,13 +1005,14 @@
       "Evaluate and take measures for executive result: Establishing specific executive strategies for accomplishing strategies and distributing capabilities of the company in a strategic manner."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-064",
+    "id": "C1-P4-Q04",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 4,
     "question": "Which of the following A-D presents the correct order of the process of establishing a management plan?",
     "options": [
       "Define mission → Define vision → Establish management plan → Define strategies/policies/goals",
@@ -957,13 +1021,14 @@
       "Define mission → Define vision → Define strategies/policies/goals → Establish management plan"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-065",
+    "id": "C1-P4-Q05",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 5,
     "question": "Which of the following items of mission is incorrect?",
     "options": [
       "Drive for change",
@@ -972,13 +1037,14 @@
       "Possibility of application"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-066",
+    "id": "C1-P4-Q06",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 6,
     "question": "Which of the following statements about vision is incorrect?",
     "options": [
       "A vision defines the future image of a company.",
@@ -987,13 +1053,14 @@
       "The stakeholders should be considered when defining a vision."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-067",
+    "id": "C1-P4-Q07",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 7,
     "question": "Which of the following items is not a core factor of vision?",
     "options": [
       "Past record",
@@ -1002,13 +1069,14 @@
       "Clear value"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-068",
+    "id": "C1-P4-Q08",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 8,
     "question": "Which of the following descriptions of strategy is incorrect?",
     "options": [
       "A strategy is a comprehensive and integrated plan that a company should fulfill in order to overcome and adapt to the environment it faces.",
@@ -1016,14 +1084,15 @@
       "A strategy should deal with the comprehensive area of a company.",
       "A strategy defines how the resources of a company will be distributed in order to accomplish its vision."
     ],
-    "answer": 1,
-    "explanation": ""
+    "answer": 2,
+    "answerLetter": "C"
   },
   {
-    "id": "C1-069",
+    "id": "C1-P4-Q09",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 9,
     "question": "Which of the following internal factors should NOT be considered when analyzing the corporate environment?",
     "options": [
       "Members in the company",
@@ -1032,13 +1101,14 @@
       "Task functions and process"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-070",
+    "id": "C1-P4-Q10",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 10,
     "question": "Which of the following external factors should NOT be considered when analyzing the corporate environment?",
     "options": [
       "Economic environment",
@@ -1047,13 +1117,14 @@
       "Rival companies"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-071",
+    "id": "C1-P4-Q11",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 11,
     "question": "Which of the following external factors should NOT be considered when analyzing the corporate environment?",
     "options": [
       "Social and cultural environment",
@@ -1062,13 +1133,14 @@
       "Local government"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-072",
+    "id": "C1-P4-Q12",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 12,
     "question": "Which of the following explanations of SWOT analysis is inappropriate?",
     "options": [
       "A SWOT analysis classifies internal environment into opportunity and threat.",
@@ -1077,13 +1149,14 @@
       "SWOT analysis is a method of analyzing the corporate environment."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-073",
+    "id": "C1-P4-Q13",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 13,
     "question": "Which of the following expressions of abbreviations of SWOT is incorrect?",
     "options": [
       "S: STRENGTH",
@@ -1092,13 +1165,14 @@
       "T: THREAT"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-074",
+    "id": "C1-P4-Q14",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 14,
     "question": "Which of the following combinations of SWOT when conducting a SWOT analysis is incorrect?",
     "options": [
       "S-O",
@@ -1107,13 +1181,14 @@
       "W-T"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-075",
+    "id": "C1-P4-Q15",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 15,
     "question": "Which of the following descriptions of strategies for approaching SWOT items is correct?",
     "options": [
       "S-O: Utilizes opportunities as much as possible based on strength.",
@@ -1122,13 +1197,14 @@
       "W-T: Improve on weaknesses to utilize opportunities."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-076",
+    "id": "C1-P4-Q16",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 16,
     "question": "Which of the following descriptions of policies is inappropriate?",
     "options": [
       "Management policy is divided into mid-, long-term and yearly policy.",
@@ -1137,13 +1213,14 @@
       "The background to determining management policy does not have to be explained to members of the organization."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-077",
+    "id": "C1-P4-Q17",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 17,
     "question": "Which of the following three factors of a goal is inappropriate?",
     "options": [
       "What",
@@ -1152,13 +1229,14 @@
       "By when"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-078",
+    "id": "C1-P4-Q18",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 18,
     "question": "Which of the following conditions of a goal is inappropriate?",
     "options": [
       "Specific",
@@ -1167,13 +1245,14 @@
       "Free from time"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-079",
+    "id": "C1-P4-Q19",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 19,
     "question": "Which of the following descriptions of a goal is inappropriate?",
     "options": [
       "A goal is divided into quantitative goal and qualitative goal.",
@@ -1182,13 +1261,14 @@
       "A qualitative goal is used if the data cannot be expressed in numbers."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-080",
+    "id": "C1-P4-Q20",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 20,
     "question": "Which of the following examples of a quantitative goal is inappropriate?",
     "options": [
       "Reform of awareness",
@@ -1197,13 +1277,14 @@
       "Operating cost"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-081",
+    "id": "C1-P4-Q21",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 21,
     "question": "Which of the following examples of a quantitative goal is inappropriate?",
     "options": [
       "Amount of improvement effect",
@@ -1212,13 +1293,14 @@
       "Motivation"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-082",
+    "id": "C1-P4-Q22",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 22,
     "question": "Which of the following examples of a qualitative goal is inappropriate?",
     "options": [
       "Improve capability",
@@ -1227,13 +1309,14 @@
       "Improve method of production"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-083",
+    "id": "C1-P4-Q23",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 23,
     "question": "Which of the following examples of a qualitative goal is inappropriate?",
     "options": [
       "Motivation",
@@ -1242,13 +1325,14 @@
       "Rate of safety disaster"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-084",
+    "id": "C1-P4-Q24",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 24,
     "question": "Which of the following descriptions of the functions of a goal is inappropriate?",
     "options": [
       "A goal presents the future status sought by an organization.",
@@ -1257,13 +1341,14 @@
       "A goal can be used as a basic material for organizational design in the organization."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-085",
+    "id": "C1-P4-Q25",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 25,
     "question": "Which of the following functions of goals is inappropriate?",
     "options": [
       "Standard of effectiveness",
@@ -1272,13 +1357,14 @@
       "Provide legitimacy"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-086",
+    "id": "C1-P4-Q26",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 26,
     "question": "Which of the following descriptions of establishing a quality management plan is inappropriate?",
     "options": [
       "A quality management plan can be classified into mid-, long-term, and short-term plan.",
@@ -1287,13 +1373,14 @@
       "There is no need to analyze problems from the previous year when establishing a quality management plan."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-087",
+    "id": "C1-P4-Q27",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 27,
     "question": "Which of the following are methods of evaluating and analyzing a quality management plan is inappropriate?",
     "options": [
       "Analyze trend",
@@ -1302,13 +1389,14 @@
       "Conduct factual analysis"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-088",
+    "id": "C1-P4-Q28",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 28,
     "question": "Which of the following descriptions of evaluating and analyzing the results of undertaking quality management is inappropriate?",
     "options": [
       "Evaluate whether the goal has been accomplished.",
@@ -1317,13 +1405,14 @@
       "Find out whether the items for accomplishing goals were carried out is not required."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-089",
+    "id": "C1-P4-Q29",
     "chapter": 1,
     "part": 4,
-    "part_title": "PART 4: ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "partTitle": "ESTABLISHMENT AND EVALUATION OF A QUALITY MANAGEMENT PLAN",
+    "number": 29,
     "question": "Which of the following explanations of measures to be taken on the results of undertaking a quality management plan is inappropriate?",
     "options": [
       "Measure, corrective measure, and preventive measure all mean the same thing.",
@@ -1332,13 +1421,14 @@
       "Preventive measure is an activity aimed at preventing the occurrence of problem."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-090",
+    "id": "C1-P5-Q01",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 1,
     "question": "Which of the following definitions of an audit is appropriate?",
     "options": [
       "A systematic, dependent, documented process for collecting evidence for an audit and evaluating it subjectively in order to determine the level of fulfillment of the audit criteria.",
@@ -1347,13 +1437,14 @@
       "A systematic, independent, documented process for collecting evidence for an audit and evaluating it objectively in order to determine the level of fulfillment of the audit criteria."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-091",
+    "id": "C1-P5-Q02",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 2,
     "question": "Which of the following definitions of terms related to the definition of audit is inappropriate?",
     "options": [
       "Audit criteria are divided into audit subject and audit item.",
@@ -1362,13 +1453,14 @@
       "\"Systematic\" refers to the planning and preparing of contents for an internal audit of a quality system beforehand."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-092",
+    "id": "C1-P5-Q03",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 3,
     "question": "Which if the following definitions of the purpose of an internal audit of a quality system is inappropriate?",
     "options": [
       "To determine if the work processes confirm to the audit criteria.",
@@ -1377,13 +1469,14 @@
       "To verify if the work performance have been achieved as a result of the implementation of the work processes."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-093",
+    "id": "C1-P5-Q04",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 4,
     "question": "Which of the following explanations of agent of audit is inappropriate?",
     "options": [
       "Fourth-person audit: Audit conducted by an administrative institution.",
@@ -1392,13 +1485,14 @@
       "First-person audit: Audit conducted by the organization itself."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-094",
+    "id": "C1-P5-Q05",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 5,
     "question": "Which of the following classifications of subject of audit is inappropriate?",
     "options": [
       "Quality system",
@@ -1407,13 +1501,14 @@
       "Personnel"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-095",
+    "id": "C1-P5-Q06",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 6,
     "question": "Which of the following explanations of the subject of audit is appropriate?",
     "options": [
       "Arrangements for an internal audit of a quality system audits all systems of the organization.",
@@ -1422,13 +1517,14 @@
       "When conducting an internal audit of a quality system, contents about the management of partner companies are excluded."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-096",
+    "id": "C1-P5-Q07",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 7,
     "question": "Which of the following explanations of KS certification and ISO 9001 certification is appropriate?",
     "options": [
       "KS certification and ISO 9001 certification are certified through a quality system audit.",
@@ -1437,13 +1533,14 @@
       "ISO 9001 certification is certified through a quality system audit and a product test."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-097",
+    "id": "C1-P5-Q08",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 8,
     "question": "Which of the following descriptions of the flow of an audit is inappropriate?",
     "options": [
       "A forward audit is an audit that is conducted in the order in which a task or production is processed.",
@@ -1452,13 +1549,14 @@
       "A backward audit cannot be used when checking traceability."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-098",
+    "id": "C1-P5-Q09",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 9,
     "question": "Which of the following descriptions of the preconditions for an internal audit and the appropriateness of the auditor is inappropriate?",
     "options": [
       "The management board should recognize the purpose and importance of an internal audit of the quality system.",
@@ -1467,13 +1565,14 @@
       "The auditor of a quality system needs to be the person in the company with the highest level of education."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-099",
+    "id": "C1-P5-Q10",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 10,
     "question": "Which of the following explanations of appropriateness for an auditor of a quality system is inappropriate?",
     "options": [
       "The auditor of a quality system must have appropriate experience of the task.",
@@ -1482,13 +1581,14 @@
       "The auditor of a quality system must have general knowledge about the company."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-100",
+    "id": "C1-P5-Q11",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 11,
     "question": "Which of the following personal characteristics of the auditor of a quality system are appropriate?",
     "options": [
       "Ethical, open, diplomatic, observant",
@@ -1497,13 +1597,14 @@
       "Ethical, open, diplomatic, good at negotiating"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-101",
+    "id": "C1-P5-Q12",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 12,
     "question": "Which of the following personal characteristics of the auditor of a quality system are inappropriate?",
     "options": [
       "Insightful, flexible, tenacious, decisive",
@@ -1512,13 +1613,14 @@
       "Flexible, tenacious, decisive, autonomous"
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-102",
+    "id": "C1-P5-Q13",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 13,
     "question": "Which of the following descriptions of responsibility and authority of the organization regarding an internal audit of a quality system is inappropriate?",
     "options": [
       "The internal audit of a quality system is managed by the department which manages the operation of the quality system.",
@@ -1527,13 +1629,14 @@
       "An auditing team leader should be appointed even when there is only one auditor."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-103",
+    "id": "C1-P5-Q14",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 14,
     "question": "Which of the following explanations of the plan for an internal audit of a quality system is inappropriate?",
     "options": [
       "The types of plan for an internal audit of a quality system are divided into yearly plan and conducting plan.",
@@ -1542,13 +1645,14 @@
       "Conducting a plan for the internal audit of a quality system should include the date and time of the audit."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-104",
+    "id": "C1-P5-Q15",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 15,
     "question": "Which of the following items to be considered when determining auditing items is inappropriate?",
     "options": [
       "Division of works within auditing departments",
@@ -1557,13 +1661,14 @@
       "Performance of the pertinent department"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-105",
+    "id": "C1-P5-Q16",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 16,
     "question": "Which of the following descriptions to be considered when determining the items of an internal audit is appropriate?",
     "options": [
       "Whether the moderate performance of the pertinent department should be investigated.",
@@ -1572,13 +1677,14 @@
       "The method of offsetting the performance of the pertinent department does not have to be investigated."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-106",
+    "id": "C1-P5-Q17",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 17,
     "question": "Which of the following descriptions to be considered when determining the items of an internal audit is inappropriate?",
     "options": [
       "The standard of the department subject to internal audit should be investigated.",
@@ -1587,13 +1693,14 @@
       "The criteria for evaluating KS certification for the department subject to audit are excluded from the investigation."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-107",
+    "id": "C1-P5-Q18",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 18,
     "question": "Which one of the following descriptions of the order of the internal audit process is correct?",
     "options": [
       "Establish internal audit plan for quality system → Select internal auditor → Conduct internal audit → Conduct post-measures for internal audit.",
@@ -1602,13 +1709,14 @@
       "Conduct internal audit → Utilize result of internal audit → Maintain record of internal audit result → Conduct post-measures for internal audit."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-108",
+    "id": "C1-P5-Q19",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 19,
     "question": "Which of the following descriptions of the purpose of the internal audit list is inappropriate?",
     "options": [
       "To ensure the depth and continuity of the internal audit",
@@ -1617,13 +1725,14 @@
       "To guarantee the autonomy of the internal auditor"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-109",
+    "id": "C1-P5-Q20",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 20,
     "question": "Which of the following descriptions of the order of an internal audit of a quality system is appropriate?",
     "options": [
       "Beginning meeting → on-site investigation → internal audit → ending meeting → organization of result of internal audit",
@@ -1632,13 +1741,14 @@
       "Beginning meeting → internal audit → organization of result of internal audit → on-site investigation → ending meeting"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-110",
+    "id": "C1-P5-Q21",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 21,
     "question": "Which of the following items to be checked upon an on-site investigation of an office space is inappropriate?",
     "options": [
       "Cleaning",
@@ -1646,14 +1756,15 @@
       "Working attitude of employees",
       "Compliance with the standard"
     ],
-    "answer": 3,
-    "explanation": ""
+    "answer": 2,
+    "answerLetter": "C"
   },
   {
-    "id": "C1-111",
+    "id": "C1-P5-Q22",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 22,
     "question": "Which of the following items to check upon an on-site investigation of a production site is inappropriate?",
     "options": [
       "Whether safety devices have been worn, if applicable",
@@ -1662,13 +1773,14 @@
       "Maintenance of facilities"
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-112",
+    "id": "C1-P5-Q23",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 23,
     "question": "Which of the following explanations asked in order to acquire objective evidence for an internal audit of a quality system is inappropriate?",
     "options": [
       "When asking the subject, the internal auditor should ask appropriate questions based on an understanding of the characteristics of the subject.",
@@ -1677,13 +1789,14 @@
       "If necessary, an internal auditor can use the method of asking complex questions."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-113",
+    "id": "C1-P5-Q24",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 24,
     "question": "Which of the following explanations of observation is inappropriate?",
     "options": [
       "The purpose of observation of a record is to check whether the record is being written, processed, and possessed according to the method defined by the standard.",
@@ -1692,13 +1805,14 @@
       "The purpose of observation of a site is to check whether the contents that should be fulfilled on site are being fulfilled."
     ],
     "answer": 1,
-    "explanation": ""
+    "answerLetter": "B"
   },
   {
-    "id": "C1-114",
+    "id": "C1-P5-Q25",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 25,
     "question": "Which of the following descriptions of the conclusion of an internal audit of a quality system is inappropriate?",
     "options": [
       "The internal auditor should evaluate the conclusion of an internal audit based on the internal audit items included on the internal audit list.",
@@ -1707,13 +1821,14 @@
       "Inappropriateness may be divided into mild inappropriateness and serious inappropriateness."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   },
   {
-    "id": "C1-115",
+    "id": "C1-P5-Q26",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 26,
     "question": "Which of the following explanations of an ending meeting is inappropriate?",
     "options": [
       "An ending meeting is managed by the person responsible for the department subject to internal audit.",
@@ -1722,13 +1837,14 @@
       "At the ending meeting, the internal auditor can offer advice on improvement apart from the judgment on inappropriateness."
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-116",
+    "id": "C1-P5-Q27",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 27,
     "question": "Which of the following items included in the final report on an internal audit of a quality system is inappropriate?",
     "options": [
       "Purpose of the internal audit",
@@ -1737,13 +1853,14 @@
       "Plan for the next internal audit of the quality system"
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-117",
+    "id": "C1-P5-Q28",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 28,
     "question": "Which of the following ways of using the result of an internal audit of a quality system is inappropriate?",
     "options": [
       "Providing result of the internal audit to external customers",
@@ -1752,13 +1869,14 @@
       "Reviewing and improving the quality system"
     ],
     "answer": 0,
-    "explanation": ""
+    "answerLetter": "A"
   },
   {
-    "id": "C1-118",
+    "id": "C1-P5-Q29",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 29,
     "question": "Which of the following explanations of corrective measures of inappropriateness in an internal audit of a quality system is the correct explanation?",
     "options": [
       "Since the inappropriateness detected by an internal audit has already been understood by the department subject to the internal audit at the ending meeting, no separate correctives measure have to be requested.",
@@ -1767,13 +1885,14 @@
       "The result of a check of the corrective measures should be kept on record."
     ],
     "answer": 3,
-    "explanation": ""
+    "answerLetter": "D"
   },
   {
-    "id": "C1-119",
+    "id": "C1-P5-Q30",
     "chapter": 1,
     "part": 5,
-    "part_title": "PART 5: INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "partTitle": "INTERNAL AUDIT OF QUALITY SYSTEMS",
+    "number": 30,
     "question": "Which of the following explanations of improvements after an internal audit of a quality system is inappropriate?",
     "options": [
       "Items subject to improvement include quality system, production process, and product.",
@@ -1782,6 +1901,6 @@
       "Generally, the selection of subjects for improvement is carried out based on the result of an internal audit of a quality system."
     ],
     "answer": 2,
-    "explanation": ""
+    "answerLetter": "C"
   }
 ]
