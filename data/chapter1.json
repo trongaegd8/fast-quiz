@@ -131,7 +131,7 @@
       "Demand quality → Design quality → Production quality → Market quality",
       "Demand quality → Market quality → Production quality → Design quality"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": ""
   },
   {
@@ -1646,7 +1646,7 @@
       "Working attitude of employees",
       "Compliance with the standard"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": ""
   },
   {
